@@ -187,7 +187,7 @@ This document describes a framework for securing ground vehicle software update 
 
 Uptane is a secure software update framework for ground vehicles. This document describes procedures to enable programmers for OEMs and suppliers to securely design and implement this framework in a manner that better protects connected units on ground vehicles. Integrating Uptane as outlined in the sections that follow can reduce the ability of attackers to compromise critical systems. It also assures a faster and easier recovery process should a compromise occur.
 
-These instructions specify the components necessary for a compliant implementation. Individual implementors can make their own technological choices within those requirements. This flexibility makes Uptane adaptable to the many customized update solutions used by manufacturers. If implementors wish to have compatible formats, they may use profiles. Profiles contain a description of implementation choices as well as data binding formats. An implementor who follows a profile as well as the Uptane standard will be able to interoperate with other implementations using that profile.
+These instructions specify the components necessary for a compliant implementation. Individual implementors can make their own technological choices within those requirements. This flexibility makes Uptane adaptable to the many customized update solutions used by manufacturers. If implementors wish to have compatible formats, they may use profiles. Profiles contain a description of implementation choices, as well as data binding formats. An implementor who follows a profile, as well as the Uptane standard, will be able to interoperate with other implementations using that profile.
 
 # Terminology
 
